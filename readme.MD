@@ -3,7 +3,7 @@ ja_guide
 
 japanese guides with help from information collected from internet and various japanese sources
 
-### borrowing
+## borrowing
 
 * https://kaku-navi.com/ - Kanji stroke orders
 * https://ja.wikipedia.org/ - Images, kanji grading info
