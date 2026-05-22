@@ -11,7 +11,7 @@ mostly only native educational resources (for example for japanese kids), transl
 | --- | --- |
 | `kanji-intro` | mostly a direct translation of https://happylilac.net/pdf/2018-poster_11.pdf |
 | `radical-intro` | mostly a direct translation of https://happylilac.net/pdf/2019-poster_5.pdf |
-| `radicals-kanmuri/kusa` | a few kanjis with grass radical represented with photos |
+| `radicals-kanmuri/kusa` | a few kanjis with grass radical presented with photos |
 
 ## borrowing
 
