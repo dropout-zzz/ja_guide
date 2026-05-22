@@ -3,6 +3,8 @@ ja_guide
 
 japanese guides with help from information collected from internet and various japanese sources
 
+mostly only native educational resources (for example for japanese kids), translated into english.
+
 ## table of contents
 
 | file | what |
