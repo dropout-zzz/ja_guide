@@ -7,7 +7,8 @@ japanese guides with help from information collected from internet and various j
 
 | file | what |
 | --- | --- |
-| `radical-intro` | direct translation of https://happylilac.net/pdf/2019-poster_5.pdf |
+| `kanji-intro` | mostly a direct translation of https://happylilac.net/pdf/2018-poster_11.pdf |
+| `radical-intro` | mostly a direct translation of https://happylilac.net/pdf/2019-poster_5.pdf |
 
 ## borrowing
 
