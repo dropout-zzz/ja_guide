@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2026-05-22T00:06:45.054976989</meta:creation-date><dc:date>2026-05-22T16:36:35.518467254</dc:date><meta:editing-duration>PT2H39M6S</meta:editing-duration><meta:editing-cycles>129</meta:editing-cycles><meta:generator>LibreOffice/25.8.3.2$Linux_X86_64 LibreOffice_project/580$Build-2</meta:generator><meta:document-statistic meta:table-count="7" meta:image-count="2" meta:object-count="0" meta:page-count="3" meta:paragraph-count="130" meta:word-count="496" meta:character-count="1661" meta:non-whitespace-character-count="1483"/></office:meta>
+ <office:meta><meta:creation-date>2026-05-22T00:06:45.054976989</meta:creation-date><dc:date>2026-05-23T18:48:10.339047721</dc:date><meta:editing-duration>PT3H8M12S</meta:editing-duration><meta:editing-cycles>164</meta:editing-cycles><meta:generator>LibreOffice/25.8.3.2$Linux_X86_64 LibreOffice_project/580$Build-2</meta:generator><meta:document-statistic meta:table-count="9" meta:image-count="2" meta:object-count="0" meta:page-count="3" meta:paragraph-count="165" meta:word-count="613" meta:character-count="2020" meta:non-whitespace-character-count="1809"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">57289</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">70875</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">34964</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">15385</config:config-item>
@@ -14,11 +14,11 @@
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
      <config:config-item config:name="ViewLeft" config:type="long">8982</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">67954</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">81190</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">57289</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">70875</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">34962</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">72672</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">86258</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -149,7 +149,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">7112234</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">7287208</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">true</config:config-item>
@@ -571,6 +571,9 @@
   <style:style style:name="表7.A" style:family="table-column">
    <style:table-column-properties style:column-width="2.833cm" style:rel-column-width="10922*"/>
   </style:style>
+  <style:style style:name="表7.F" style:family="table-column">
+   <style:table-column-properties style:column-width="2.835cm" style:rel-column-width="10925*"/>
+  </style:style>
   <style:style style:name="表7.A1" style:family="table-cell">
    <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.5pt solid #000000" fo:border-right="none" fo:border-top="0.5pt solid #000000" fo:border-bottom="0.5pt solid #000000"/>
   </style:style>
@@ -585,6 +588,51 @@
   </style:style>
   <style:style style:name="表7.3" style:family="table-row">
    <style:table-row-properties style:min-row-height="1.097cm"/>
+  </style:style>
+  <style:style style:name="表8" style:family="table">
+   <style:table-properties style:width="17cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="表8.A" style:family="table-column">
+   <style:table-column-properties style:column-width="2.833cm" style:rel-column-width="10922*"/>
+  </style:style>
+  <style:style style:name="表8.F" style:family="table-column">
+   <style:table-column-properties style:column-width="2.835cm" style:rel-column-width="10925*"/>
+  </style:style>
+  <style:style style:name="表8.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.5pt solid #000000" fo:border-right="none" fo:border-top="0.5pt solid #000000" fo:border-bottom="0.5pt solid #000000"/>
+  </style:style>
+  <style:style style:name="表8.F1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border="0.5pt solid #000000"/>
+  </style:style>
+  <style:style style:name="表8.A2" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.5pt solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+  </style:style>
+  <style:style style:name="表8.F2" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.5pt solid #000000" fo:border-right="0.5pt solid #000000" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+  </style:style>
+  <style:style style:name="表8.3" style:family="table-row">
+   <style:table-row-properties style:min-row-height="1.03cm"/>
+  </style:style>
+  <style:style style:name="表9" style:family="table">
+   <style:table-properties style:width="17cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="表9.A" style:family="table-column">
+   <style:table-column-properties style:column-width="4.251cm" style:rel-column-width="16383*"/>
+  </style:style>
+  <style:style style:name="表9.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.5pt solid #000000" fo:border-right="none" fo:border-top="0.5pt solid #000000" fo:border-bottom="0.5pt solid #000000"/>
+  </style:style>
+  <style:style style:name="表9.D1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border="0.5pt solid #000000"/>
+  </style:style>
+  <style:style style:name="表9.A2" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.5pt solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+  </style:style>
+  <style:style style:name="表9.D2" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.097cm" fo:border-left="0.5pt solid #000000" fo:border-right="0.5pt solid #000000" fo:border-top="none" fo:border-bottom="0.5pt solid #000000"/>
+  </style:style>
+  <style:style style:name="表9.3" style:family="table-row">
+   <style:table-row-properties style:min-row-height="1.228cm"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
@@ -785,6 +833,31 @@
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="12pt" officeooo:rsid="006c862a" officeooo:paragraph-rsid="006c862a" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-size="14pt" officeooo:rsid="006daee2" officeooo:paragraph-rsid="006daee2" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" officeooo:rsid="006daf3b" officeooo:paragraph-rsid="006daf3b" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="12pt" officeooo:rsid="006daf3b" officeooo:paragraph-rsid="006daf3b" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="006f31a8"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-size="14pt" officeooo:rsid="006f31a8" officeooo:paragraph-rsid="006f31a8" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" officeooo:rsid="006f31a8" officeooo:paragraph-rsid="006f31a8" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="12pt" officeooo:rsid="006f31a8" officeooo:paragraph-rsid="006f31a8" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="001a1ee3"/>
   </style:style>
@@ -871,6 +944,15 @@
   </style:style>
   <style:style style:name="T29" style:family="text">
    <style:text-properties officeooo:rsid="006c862a"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties officeooo:rsid="006daee2"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties officeooo:rsid="006daf3b"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties officeooo:rsid="006f31a8"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -1415,7 +1497,8 @@
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>木・<text:ruby text:style-name="Ru1"><text:ruby-base>木</text:ruby-base><text:ruby-text>き</text:ruby-text></text:ruby><text:ruby text:style-name="Ru1"><text:ruby-base>偏</text:ruby-base><text:ruby-text>へん</text:ruby-text></text:ruby> – <text:span text:style-name="T29">Tree radical on left</text:span></text:h>
    <text:p text:style-name="P52">Meaning: Tree or things made of wood</text:p>
    <table:table table:name="表7" table:style-name="表7">
-    <table:table-column table:style-name="表7.A" table:number-columns-repeated="6"/>
+    <table:table-column table:style-name="表7.A" table:number-columns-repeated="5"/>
+    <table:table-column table:style-name="表7.F"/>
     <table:table-row>
      <table:table-cell table:style-name="表7.A1" office:value-type="string">
       <text:p text:style-name="P12">林<text:span text:style-name="T29">(はやし)</text:span></text:p>
@@ -1478,6 +1561,122 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P52"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">糹・<text:ruby text:style-name="Ru1"><text:ruby-base>糸</text:ruby-base><text:ruby-text>いと</text:ruby-text></text:ruby><text:ruby text:style-name="Ru1"><text:ruby-base>偏</text:ruby-base><text:ruby-text>へん</text:ruby-text></text:ruby> – <text:span text:style-name="T30">Thread radical on left</text:span></text:h>
+   <text:p text:style-name="P55">Meaning: Thread or fabric; <text:span text:style-name="T31">Weaving fabric</text:span></text:p>
+   <table:table table:name="表8" table:style-name="表8">
+    <table:table-column table:style-name="表8.A" table:number-columns-repeated="5"/>
+    <table:table-column table:style-name="表8.F"/>
+    <table:table-row>
+     <table:table-cell table:style-name="表8.A1" office:value-type="string">
+      <text:p text:style-name="P12">線<text:span text:style-name="T31">(せん)</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.A1" office:value-type="string">
+      <text:p text:style-name="P12">細<text:span text:style-name="T31">(ほそい)</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.A1" office:value-type="string">
+      <text:p text:style-name="P12">組<text:span text:style-name="T31">(くみ)</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.A1" office:value-type="string">
+      <text:p text:style-name="P12">結<text:span text:style-name="T31">(むすぶ)</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.A1" office:value-type="string">
+      <text:p text:style-name="P12">絹<text:span text:style-name="T31">(きぬ)</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.F1" office:value-type="string">
+      <text:p text:style-name="P12">綿<text:span text:style-name="T31">(わた)</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="表8.A2" office:value-type="string">
+      <text:p text:style-name="P56">lines</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.A2" office:value-type="string">
+      <text:p text:style-name="P56">thin</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.A2" office:value-type="string">
+      <text:p text:style-name="P56">group</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.A2" office:value-type="string">
+      <text:p text:style-name="P56">to tie</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.A2" office:value-type="string">
+      <text:p text:style-name="P56">silk</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.F2" office:value-type="string">
+      <text:p text:style-name="P56">cotton</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="表8.3">
+     <table:table-cell table:style-name="表8.A2" office:value-type="string">
+      <text:p text:style-name="P57">2nd grade</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.A2" office:value-type="string">
+      <text:p text:style-name="P57">2nd grade</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.A2" office:value-type="string">
+      <text:p text:style-name="P57">2nd grade</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.A2" office:value-type="string">
+      <text:p text:style-name="P57">4th grade</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.A2" office:value-type="string">
+      <text:p text:style-name="P57">6th grade</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表8.F2" office:value-type="string">
+      <text:p text:style-name="P57">5th grade</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P55"/>
+   <text:h text:style-name="P58" text:outline-level="2">忄・<text:ruby text:style-name="Ru1"><text:ruby-base>立</text:ruby-base><text:ruby-text>りっ</text:ruby-text></text:ruby><text:ruby text:style-name="Ru1"><text:ruby-base>心</text:ruby-base><text:ruby-text>しん</text:ruby-text></text:ruby><text:ruby text:style-name="Ru1"><text:ruby-base>偏</text:ruby-base><text:ruby-text>べん</text:ruby-text></text:ruby> – <text:span text:style-name="T32">Heart radical on left</text:span></text:h>
+   <text:p text:style-name="P59">Meaning: Mind or feeling</text:p>
+   <table:table table:name="表9" table:style-name="表9">
+    <table:table-column table:style-name="表9.A" table:number-columns-repeated="4"/>
+    <table:table-row>
+     <table:table-cell table:style-name="表9.A1" office:value-type="string">
+      <text:p text:style-name="P12">情<text:span text:style-name="T32">(じょう)</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表9.A1" office:value-type="string">
+      <text:p text:style-name="P60">性(さが)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表9.A1" office:value-type="string">
+      <text:p text:style-name="P12">快<text:span text:style-name="T32">(かい)</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表9.D1" office:value-type="string">
+      <text:p text:style-name="P12">慣<text:span text:style-name="T32">(なれる)</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="表9.A2" office:value-type="string">
+      <text:p text:style-name="P60">emotion</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表9.A2" office:value-type="string">
+      <text:p text:style-name="P60">characteristic;</text:p>
+      <text:p text:style-name="P60">sexual</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表9.A2" office:value-type="string">
+      <text:p text:style-name="P60">refreshing; pleasure</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表9.D2" office:value-type="string">
+      <text:p text:style-name="P60">to get used to</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="表9.3">
+     <table:table-cell table:style-name="表9.A2" office:value-type="string">
+      <text:p text:style-name="P61">5th grade</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表9.A2" office:value-type="string">
+      <text:p text:style-name="P61">5th grade</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表9.A2" office:value-type="string">
+      <text:p text:style-name="P61">5th grade</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="表9.D2" office:value-type="string">
+      <text:p text:style-name="P61">5th grade</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="P59"/>
   </office:text>
  </office:body>
 </office:document>
